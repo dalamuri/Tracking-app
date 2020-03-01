@@ -156,5 +156,7 @@ buildNumber.properties
 /plugins
 /web-app/plugins
 
+.DS_Store
+
 # "temporary" build files
 /target
